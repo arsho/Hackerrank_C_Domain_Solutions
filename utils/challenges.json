@@ -1,0 +1,112 @@
+{
+  "Introduction":[
+    [
+      "hello-world-c",
+      "\"Hello World!\" in C"
+    ],
+    [
+      "playing-with-characters",
+      "Playing With Characters"
+    ],
+    [
+      "sum-numbers-c",
+      "Sum and Difference of Two Numbers"
+    ],
+    [
+      "functions-in-c",
+      "Functions in C"
+    ],
+    [
+      "pointer-in-c",
+      "Pointers in C"
+    ]
+  ],
+  "Conditionals and Loops":[
+    [
+      "conditional-statements-in-c",
+      "Conditional Statements in C"
+    ],
+    [
+      "for-loop-in-c",
+      "For Loop in C"
+    ],
+    [
+      "sum-of-digits-of-a-five-digit-number",
+      "Sum of Digits of a Five Digit Number"
+    ],
+    [
+      "bitwise-operators-in-c",
+      "Bitwise Operators"
+    ],
+    [
+      "printing-pattern-2",
+      "Printing Pattern using Loops"
+    ]
+  ],
+  "Arrays and Strings":[
+    [
+      "1d-arrays-in-c",
+      "1D Arrays in C"
+    ],
+    [
+      "reverse-array-c",
+      "Array Reversal"
+    ],
+    [
+      "printing-tokens-",
+      "Printing Tokens"
+    ],
+    [
+      "frequency-of-digits-1",
+      "Digit Frequency"
+    ],
+    [
+      "dynamic-array-in-c",
+      "Dynamic Array in C"
+    ]
+  ],
+  "Functions":[
+    [
+      "recursion-in-c",
+      "Calculate the Nth term"
+    ],
+    [
+      "students-marks-sum",
+      "Students Marks Sum"
+    ],
+    [
+      "sorting-array-of-strings",
+      "Sorting Array of Strings"
+    ],
+    [
+      "permutations-of-strings",
+      "Permutations of Strings"
+    ],
+    [
+      "variadic-functions-in-c",
+      "Variadic functions in C"
+    ],
+    [
+      "querying-the-document",
+      "Querying the Document"
+    ]
+  ],
+  "Structs and Enums":[
+    [
+      "too-high-boxes",
+      "Boxes through a Tunnel"
+    ],
+    [
+      "small-triangles-large-triangles",
+      "Small Triangles, Large Triangles"
+    ],
+    [
+      "post-transition",
+      "Post Transition"
+    ],
+    [
+      "structuring-the-document",
+      "Structuring the Document"
+    ]
+  ]
+}
